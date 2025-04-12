@@ -1,4 +1,4 @@
-# 🏙️ BAHouseAI – Predicting Apartment Prices in Buenos Aires
+# Predicting Apartment Prices in Buenos Aires
 
 A simple and effective linear regression model to estimate real estate prices of apartments in Buenos Aires, Argentina, using real-world housing data.
 
